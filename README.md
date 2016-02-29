@@ -6,7 +6,7 @@
 ## Install
 
 ```{bash}
-git clone https://github.com/bsspirit/angular-basic
+git clone https://github.com/Pjer-zhang/frame_work
 npm install
 bower install
 ```
