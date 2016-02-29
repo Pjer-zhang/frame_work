@@ -1,7 +1,7 @@
 快速搭建Web环境 Angularjs + Express3 + Bootstrap3
 ========================
 
-[快速搭建Web环境 Angularjs + Express3 + Bootstrap3](http://blog.fens.me/angularjs-express3-bootstrap3/)
+[快速搭建Web环境 Angularjs + Express3 + Bootstrap3](http://pjer.blog.ustc.edu.cn)
 
 ## Install
 
@@ -16,10 +16,6 @@ bower install
 ```{bash}
 node app.js
 ```
-## Author
 
-Blog: http://blog.fens.me
-
-## License
-MIT
+enjoy ^_^
 
